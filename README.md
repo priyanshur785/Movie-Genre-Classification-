@@ -25,7 +25,7 @@ movie-genre-classification/
 
 - Clone the repository:
 
-git clone https://github.com/priyanshur785/movie-genre-classification.git
+git clone [https://github.com/priyanshur785/movie-genre-classification.git](https://github.com/priyanshur785/Movie-Genre-Classification-.git)
 cd movie-genre-classification
 
 - (Optional) Create and activate a virtual environment:
